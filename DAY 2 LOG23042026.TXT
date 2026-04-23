@@ -1,0 +1,44 @@
+Day 2 (23/04/2026)
+
+Task Assigned:
+- Identify and fix issue where hotel chunking system was not processing all hotels from input.json
+- Verify data flow and ensure complete dataset is handled correctly
+
+Understanding:
+- The chunking logic depends on the extracted hotel list from searchResult["his"]
+- If extraction is incomplete, chunking will also be incomplete
+- Need to validate whether issue is in extraction, chunking, or input data itself
+
+What I Did:
+- Added structured debugging to verify total number of hotels extracted
+- Printed sample hotel data to understand structure
+- Implemented manual count verification for extracted hotels
+- Tracked chunk processing using running total counter
+- Compared total extracted hotels vs total processed hotels
+- Verified complete data flow from extraction → chunking → publishing
+
+Problems Faced:
+- Initial assumption that chunking logic was faulty
+- Difficulty identifying whether issue was in code or input data
+- Lack of visibility into actual dataset size
+
+Solution / Learning:
+- Added controlled debug logging instead of random prints
+- Verified that extraction logic was correct and returning full dataset
+- Confirmed chunking logic was working as expected
+- Identified that issue was due to incorrect assumption about total dataset size
+- Learned importance of validating input data before debugging logic
+- Understood step-by-step tracing of backend data flow
+
+Pending:
+- Convert debug logic into optional debug mode
+- Optimize message payload (reduce unnecessary fields)
+- Integrate chunking system into Django API
+- Implement controlled delivery for frontend (on-demand chunks)
+
+Notes:
+- Always validate input data before assuming logic errors
+- Debugging should be structured and minimal, not excessive
+- Backend issues are often caused by incorrect assumptions, not code bugs
+- Data flow tracing is critical in real-world backend systems
+

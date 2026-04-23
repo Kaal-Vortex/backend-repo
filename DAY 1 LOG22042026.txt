@@ -1,0 +1,46 @@
+Day 1 (22/04/2026)
+
+Task Assigned:
+- Process hotel search JSON data
+- Split hotel data into chunks
+- Send chunks to RabbitMQ
+- Enable chunk-based delivery for frontend infinite scrolling
+
+Understanding:
+- The input JSON contains searchQuery and searchResult
+- searchResult["his"] contains list of hotels
+- Need to break hotel data into smaller chunks
+- Each chunk should be sent via RabbitMQ queue
+- Consumer will receive chunks and process/display them
+
+What I Did:
+- Understood JSON structure (searchQuery + searchResult)
+- Extracted hotel list from searchResult["his"]
+- Created chunking logic using Python generator
+- Implemented RabbitMQ producer using pika
+- Sent chunked data to queue
+- Created consumer script to receive and verify chunks
+- Successfully tested full flow (producer → queue → consumer)
+
+Problems Faced:
+- Understanding large nested JSON structure
+- Initial confusion about RabbitMQ workflow
+- Setting up RabbitMQ locally without Docker
+
+Solution / Learning:
+- Learned how to parse nested JSON properly
+- Understood producer-consumer architecture
+- Learned how RabbitMQ acts as message broker
+- Learned chunking logic for large datasets
+- Understood asynchronous data flow (queue-based system)
+
+Pending:
+- Add chunk index for better tracking
+- Optimize message structure (send only required fields)
+- Integrate with Django API
+
+Notes:
+- RabbitMQ is used for async communication
+- Chunking helps in handling large data efficiently
+- Infinite scrolling requires controlled data delivery
+

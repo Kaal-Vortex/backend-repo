@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+env.txt
+
+# Continuity
+SESSION_HANDOFF.md
+.continuity/
