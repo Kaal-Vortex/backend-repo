@@ -1,0 +1,35 @@
+In a Tripjack Hotel API response, the fc (Fare Component) object breaks down the hotel rate into base costs, taxes, and service fees. Since this is for a hotel, these values represent the pricing for the selected room and stay duration.
+Here is the breakdown of each value from your response:
+
+* BF (Base Fare): The core room rate for the stay (538.82).
+* NF (Net Fare): The final amount the agent pays to Tripjack (538.82).
+* TF (Total Fare): The gross price shown to the customer (538.82).
+* SNP (Supplier Net Price): The raw cost provided by the hotel or supplier (495.7).
+* SBP (Seller Base Price): The base price defined by the seller/aggregator before fees (512.49).
+* SGP (Seller Gross Price): The total price calculated for the seller including their margins (538.82).
+* TMF (Total Markup Fare): The total markup added by the agency or system (43.12).
+* TSF (Total Service Fee): The standard service fee applied to the booking (26.33).
+* TTSF (Total Transaction Service Fee): A specific fee for processing the transaction (26.33).
+* SAC (Service apical charge): An additional administrative or service charge (43.12).
+* CMU (Commission): The commission earned by the agent on this specific hotel booking (0.0).
+* SRC (Service Reward/Charge): Any extra rewards or specific service adjustments (0.0).
+
+For additional technical details or to request a full integration guide, you can contact the [Tripjack Sales Team](https://tripjack.com/nav/api) or refer to the Tripjack Hotel API Documentation.
+Do you need help calculating how these markups and fees will affect your final GST or tax reporting?
+
+In the MakeMyTrip (MMT) API, the priceDetail object breaks down the hotel room cost to show the customer exactly what they are paying versus the original "rack rate."
+Here is what each value in your response represents:
+
+* price: The original "strike-through" or rack rate before any discounts (6,249).
+* displayPrice / discountedPrice: The base rate shown to the user after MMT or hotel discounts are applied, but before taxes (4,999).
+* priceWithTax: What the original price (6,249) would have been if you added taxes to it (6,499).
+* discountedPriceWithTax: The discounted base rate (4,999) plus the tax (5,249).
+* discountedPriceWithTaxAndFees: The final "all-in" price the customer pays (5,249). Since totalAdditionalFees is 0, this matches the price with tax.
+* totalTax: The specific GST/VAT amount applied to the discounted price (250).
+* totalTaxWithFees: The sum of taxes and any extra service fees (250).
+* totalAdditionalFees: Any extra charges like resort fees or convenience fees (0).
+* pricingKey: An internal identifier used by MMT to track the specific pricing logic used ("DEFAULT").
+* ratePlanCode: The unique ID for the specific room deal/package (e.g., Room Only vs. Room with Breakfast).
+
+Would you like to know how to use the pricingKey or ratePlanCode to finalize a booking request?
+

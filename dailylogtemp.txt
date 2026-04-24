@@ -1,0 +1,39 @@
+Day X (DD/MM/YYYY)
+
+Task Assigned:
+- 
+
+Understanding:
+- What the task means
+- Key components involved (API / DB / Queue / etc.)
+
+Approach:
+- How you planned to solve it
+
+What I Did:
+- Step 1:
+- Step 2:
+- Step 3:
+
+Problems Faced:
+- Issue 1:
+- Issue 2:
+
+Debugging / Fix:
+- How you investigated
+- What changes you made
+
+Solution / Learning:
+- Final outcome
+- Key backend concepts learned
+
+Verification:
+- How you tested it (logs, output, UI, etc.)
+- What proves it works
+
+Pending:
+- What is incomplete
+- What needs improvement
+
+Notes:
+- Important insights / architecture understanding

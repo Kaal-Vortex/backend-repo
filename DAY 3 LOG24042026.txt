@@ -1,0 +1,80 @@
+Day 3 (24/04/2026)
+
+Task Assigned:
+- Implement a response mapping layer to standardize API output
+- Transform Tripjack raw JSON response into MakeMyTrip (MMT) room selection schema
+- Ensure mapped response strictly follows MMT structure observed via Chrome DevTools
+
+Understanding:
+- Tripjack provides deeply nested raw data with pricing components (BF, SGP, TTSF, TMF, etc.)
+- MMT expects a flattened, structured response focused on UI-friendly pricing fields (priceDetail)
+- Pricing models differ:
+  - Tripjack → component-based (base, tax, markup)
+  - MMT → presentation-based (display price, discounted price, final price)
+- Required to extract data from nested path:
+  searchResult → his → ops → ris → pis → fc
+
+Approach:
+- First understand both schemas (Tripjack vs MMT)
+- Identify correct mapping between pricing fields
+- Build a reusable Python class for mapping
+- Separate extraction logic and transformation logic
+- Validate output against real MMT UI behavior
+
+What I Did:
+- Step 1: Analyzed Tripjack pricing fields (BF, SGP, TF, TTSF, TMF, SAC, etc.)
+- Step 2: Studied MMT priceDetail structure using DevTools and UI screenshot
+- Step 3: Designed mapping logic aligning with actual UI behavior (display price, tax separation, final price)
+- Step 4: Implemented a class-based mapper:
+    - Extracted fc nodes from deeply nested JSON
+    - Converted each fc into MMT priceDetail format
+- Step 5: Refined pricing logic:
+    - Used SGP/TF as final payable
+    - Used SBP/SNP as base price when available
+    - Derived displayPrice, discountedPrice, and tax correctly
+- Step 6: Added __main__ block for local testing and validation
+
+Problems Faced:
+- Issue 1: Confusion between Tripjack fields (SGP, BF, TF not behaving consistently)
+- Issue 2: Incorrect assumption that (final price - tax = base price)
+- Issue 3: Understanding MMT pricing semantics (display vs discounted vs original price)
+
+Debugging / Fix:
+- Printed intermediate values (final_price, tax, markup) to trace inconsistencies
+- Compared API values with actual UI screenshot (₹4699 + ₹235 pattern)
+- Identified that SBP/SNP are more reliable for base price than derived calculations
+- Fixed logic to prioritize explicit fields over computed ones
+
+Solution / Learning:
+- Successfully built a working response mapping layer for pricing
+- Learned that:
+  - External APIs often provide inconsistent financial data
+  - UI pricing ≠ backend pricing (presentation vs computation)
+  - Always trust explicit fields (SBP, SNP) over derived values
+- Understood real-world concept of:
+  → Data normalization layer
+  → API adapter pattern
+  → Pricing transformation logic
+
+Verification:
+- Ran mapper using real Tripjack JSON file
+- Verified:
+  - Total mapped outputs count (13 priceDetails)
+  - Mathematical correctness (displayPrice + tax = final price)
+  - Output structure matches MMT schema
+- Cross-checked values with UI example for consistency
+
+Pending:
+- Integrate pricing mapping into full hotel + room response structure
+- Map additional fields:
+  - ratePlanCode
+  - room details
+  - hotel-level metadata
+- Handle edge cases (missing fields, multiple providers)
+- Optimize mapping logic for production use
+
+Notes:
+- Tripjack = component-based pricing system
+- MMT = UX-driven pricing system (includes discounts, display logic)
+- Mapping is not just field conversion, it is semantic transformation
+- This task is part of building a standardization layer for multiple providers (Tripjack, RateHawk, etc.)
