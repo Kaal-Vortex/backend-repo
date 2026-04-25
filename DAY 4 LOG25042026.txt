@@ -1,0 +1,212 @@
+Day 4 (25/04/2026)
+
+Task Assigned:
+- Understand Tripjack hotel metadata structure
+- Map Tripjack hotel fields to MakeMyTrip (MMT) schema
+- Identify correct fields for:
+  • hotelId
+  • name
+  • star rating
+  • location (city, country)
+  • geo coordinates (lat, lng)
+  • images
+- Build a clean, modular Hotel Metadata Mapper (separate from pricing logic)
+- Ensure output strictly follows MMT response structure
+
+---------------------------------------------------------------------
+
+Understanding:
+- Tripjack response structure is different from previous assumption:
+  hotel → ops → ris (pricing)
+  hotel → (name, rt, ad, gl, imgs) (metadata)
+
+- MMT structure is:
+  response → personalizedSections[] → hotels[]
+
+- Key realization:
+  We are NOT converting logic directly,
+  we are aligning supplier data → frontend contract (MMT schema)
+
+- Important distinction:
+  • Pricing = already handled separately (Day 3)
+  • Today = ONLY hotel metadata (no mixing)
+
+---------------------------------------------------------------------
+
+Approach:
+- Step 1: Parse real Tripjack JSON (no assumptions)
+- Step 2: Identify exact field locations (name, rating, location, geo, images)
+- Step 3: Compare with real MMT response structure
+- Step 4: Define 1-to-1 mapping (Tripjack → MMT)
+- Step 5: Normalize inconsistent fields (images, city, geo)
+- Step 6: Build mapper that outputs exact MMT structure
+- Step 7: Keep it modular (no pricing logic inside)
+
+---------------------------------------------------------------------
+
+What I Did:
+
+Step 1:
+- Parsed Tripjack JSON carefully
+- Identified correct metadata layer:
+  hotel.name
+  hotel.rt
+  hotel.ad
+  hotel.gl
+  hotel.imgs
+
+Step 2:
+- Identified that Tripjack uses:
+  rt → star rating (NOT review rating)
+
+Step 3:
+- Parsed MMT response deeply
+- Found actual structure:
+  response → personalizedSections[] → hotels[]
+
+Step 4:
+- Mapped fields:
+
+  Tripjack → MMT
+  -----------------------------------------
+  hotel.id        → id
+  hotel.name      → name
+  hotel.rt        → starRating
+  ad.city.name    → locationDetail.name
+  ad.country.name → locationDetail.countryName
+  gl.lt           → geoLocation.latitude
+  gl.ln           → geoLocation.longitude
+  imgs[]          → media[].url
+
+Step 5:
+- Solved image inconsistency:
+  imgs[] (list)
+  img (single fallback)
+  → normalized to media[{url: ...}]
+
+Step 6:
+- Handled edge cases:
+  • Missing city → fallback to ctn
+  • Missing geo → safe float conversion
+  • Mixed image formats (string / object)
+
+Step 7:
+- Built modular mapper:
+  TripjackToMMTHotelMapper
+
+Step 8:
+- Ensured output matches EXACT MMT schema (no custom structure)
+
+---------------------------------------------------------------------
+
+Problems Faced:
+
+Issue 1:
+- Initial confusion between:
+  Tripjack structure vs MMT structure
+
+Issue 2:
+- Wrong assumption:
+  Tripjack searchResult structure still applies
+  → but actual data was hotel-based structure
+
+Issue 3:
+- Image inconsistency:
+  imgs vs img
+  string vs object
+
+Issue 4:
+- Location confusion:
+  Full address vs MMT city-based display
+
+Issue 5:
+- Overthinking integration too early
+  (mixing pricing + metadata)
+
+---------------------------------------------------------------------
+
+Debugging / Fix:
+
+- Printed actual JSON structure instead of guessing
+- Compared real Tripjack vs real MMT responses
+- Identified correct nesting levels
+- Removed assumptions from previous logic
+- Introduced normalization layer for images
+- Used safe extraction patterns:
+  dict.get(...).get(...)
+
+---------------------------------------------------------------------
+
+Solution / Learning:
+
+- Learned that:
+  Backend integration is NOT about logic,
+  it's about STRUCTURE ALIGNMENT
+
+- Understood:
+  Supplier API ≠ Frontend Contract
+
+- Learned separation of concerns:
+  • Pricing module
+  • Hotel metadata module
+  • Aggregator module
+
+- Realized importance of:
+  Defensive coding for inconsistent APIs
+
+- Learned that:
+  Clean architecture > quick hacks
+
+---------------------------------------------------------------------
+
+Verification:
+
+- Ran mapper on real Tripjack JSON
+- Verified:
+  • Correct hotel count
+  • Proper mapping of id, name, rating
+  • Correct geo conversion
+  • Proper image normalization
+  • Output matches MMT schema exactly
+
+- Cross-checked fields manually with MMT sample response
+
+---------------------------------------------------------------------
+
+Pending:
+
+- Combine hotel metadata + pricing into final structure
+- Implement aggregator layer
+- Map room-level data (ris → rooms)
+- Align full response with MMT (including price + room + hotel)
+- Optimize response size if needed
+
+---------------------------------------------------------------------
+
+Notes:
+
+- Never assume API structure — always inspect real payload
+- Always separate:
+  data extraction vs transformation vs aggregation
+- Tripjack is inconsistent → normalization is mandatory
+- MMT schema is strict → must follow exactly
+- Modular approach makes debugging easy and scalable
+
+---------------------------------------------------------------------
+
+Next Step (Day 5):
+
+- Build Aggregator Layer:
+  Combine:
+    Hotel Metadata Mapper (Day 4)
+    Pricing Mapper (Day 3)
+
+- Output:
+  Fully MMT-compatible response
+  including:
+    • hotel
+    • rooms
+    • pricing
+
+- Goal:
+  End-to-end Tripjack → MMT transformation (production-ready)
