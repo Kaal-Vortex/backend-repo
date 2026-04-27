@@ -1,0 +1,256 @@
+Day 5 (26/04/2026)
+
+Task Assigned:
+- Convert Tripjack "des" (description) field into structured format
+- Align description output with frontend-friendly format (similar to MakeMyTrip behavior)
+- Ensure backend provides modular, reusable mapping logic
+- Adapt mapper implementation to match senior developer expectations (function-based usage instead of class-only)
+
+Understanding:
+- Tripjack sends "des" as a stringified JSON (escaped JSON string)
+- This string contains multiple meaningful sections:
+  amenities, rooms, dining, location, attractions, etc.
+- Raw format is not usable directly by frontend (single blob string)
+- Frontend needs structured, readable, section-wise content
+- Backend should NOT decide UI rendering (only structure data)
+- Senior requirement: functions are easier to call from Django views than class instances
+
+Approach:
+- Parse stringified JSON safely using json.loads
+- Convert each key into a structured section:
+  key → title (formatted)
+  value → content
+- Preserve ALL sections (no filtering)
+- Do NOT enforce ordering (frontend will handle)
+- Keep class-based logic for maintainability
+- Add function wrapper for Django compatibility
+
+What I Did:
+- Step 1:
+  Analyzed "des" field structure and confirmed it is stringified JSON
+
+- Step 2:
+  Implemented safe parsing using try-except to handle invalid JSON
+
+- Step 3:
+  Converted each key-value pair into:
+    {
+      "title": "Formatted Key",
+      "content": "Text"
+    }
+
+- Step 4:
+  Created title formatting logic:
+    snake_case → Title Case
+    example:
+      spoken_languages → Spoken Languages
+
+- Step 5:
+  Ensured empty/null values are skipped safely
+
+- Step 6:
+  Built class-based mapper:
+    TripjackDescriptionMapper
+
+- Step 7:
+  Added functional wrapper:
+    map_tripjack_description()
+  so Django views can call it directly
+
+- Step 8:
+  Tested output using local JSON file
+
+Problems Faced:
+- Issue 1:
+  "des" field was not a JSON object but a string → required parsing
+
+- Issue 2:
+  Escaped characters inside string made parsing confusing initially
+
+- Issue 3:
+  Deciding output format (plain text vs structured sections)
+
+- Issue 4:
+  Confusion between backend responsibility vs frontend responsibility
+
+- Issue 5:
+  Senior requirement mismatch (class vs function usage)
+
+Debugging / Fix:
+- Verified raw "des" structure using print/debug logs
+- Used json.loads to convert string → dict
+- Added fallback handling for invalid JSON
+- Introduced function wrapper instead of rewriting logic
+- Ensured output consistency with expected schema
+
+Solution / Learning:
+- Learned how to handle stringified JSON from APIs
+- Understood importance of data normalization layer
+- Learned separation of concerns:
+  Backend → structure data
+  Frontend → render data
+- Understood why function-based interfaces are preferred in frameworks like Django
+- Learned adapter pattern (class logic wrapped by function interface)
+
+Verification:
+- Ran mapper on real Tripjack JSON response
+- Verified:
+  ✔ All sections extracted correctly
+  ✔ Titles formatted properly
+  ✔ No crashes on missing/invalid data
+  ✔ Output usable for frontend rendering
+- Printed sample output and validated manually
+
+Pending:
+- Integrate description mapper into final aggregation layer
+- Combine with hotel mapper + price mapper
+- Validate final combined response against full MakeMyTrip structure
+- Optimize large text fields if required (trimming, formatting)
+- Confirm with frontend which sections are actually used
+
+Notes:
+- "des" is hotel-level data, not room-level
+- Always treat external API fields as unreliable (validate + parse safely)
+- Do NOT hardcode UI decisions in backend
+- Function wrappers are useful for framework integration
+- Keep logic modular even if final usage is functional
+- This module is part of a larger "Tripjack → MMT Adapter Layer"
+
+Final Outcome:
+- Successfully built a reusable, safe, structured description mapper
+- Converted raw API blob into clean, frontend-ready structured data
+- Prepared system for clean integration into Django-based backend
+
+Day 5 – Mistakes, Misunderstandings & Issues Analysis
+
+Context:
+Work focused on parsing Tripjack "des" field and converting it into structured sections. Implementation succeeded, but multiple conceptual and process-level mistakes were made during the journey.
+
+--------------------------------------------------
+
+1. WRONG ASSUMPTIONS
+
+- Assumed "des" is simple text
+  → Reality: It is stringified JSON (escaped JSON)
+  → Impact: Initial parsing confusion, wasted time trying to treat it as plain text
+
+- Assumed backend must format UI-ready text
+  → Reality: Backend should only structure data, not decide presentation
+  → Impact: Considered plain text formatting unnecessarily
+
+- Assumed ordering of sections matters
+  → Reality: Frontend controls ordering and rendering
+  → Impact: Spent time thinking about sequence which is not backend concern
+
+--------------------------------------------------
+
+2. ARCHITECTURE MISUNDERSTANDING
+
+- Initially thought:
+  "We should directly convert everything into final UI format"
+
+  → Correct approach:
+  Build modular mappers (price, hotel, description) and aggregate later
+
+- Confusion between:
+  Data transformation vs UI formatting
+
+- Misunderstood that:
+  Class-based implementation might not be usable in Django views
+
+  → Reality:
+  Class is fine, but needs function wrapper for integration
+
+--------------------------------------------------
+
+3. DESIGN MISTAKES
+
+- Considered replacing class with function entirely
+  → Would reduce modularity and testability
+
+- Didn’t initially follow:
+  "Core logic vs Interface separation"
+
+  → Fix:
+  Class = core logic
+  Function = interface
+
+- No clear boundary defined initially between:
+  Parsing layer vs Mapping layer
+
+--------------------------------------------------
+
+4. DEBUGGING & DATA HANDLING ISSUES
+
+- Difficulty handling escaped JSON string
+- Lack of early validation of input structure
+- Did not immediately print raw data to confirm assumptions
+- Over-relied on mental assumptions instead of inspecting actual data
+
+--------------------------------------------------
+
+5. PROCESS & COMMUNICATION ISSUES
+
+- Did not clarify requirements early:
+  → Whether output should be text or structured JSON
+  → Whether ordering matters
+  → How frontend will consume data
+
+- Delay in aligning with senior developer expectations:
+  → Function-based usage requirement discovered later
+
+--------------------------------------------------
+
+6. TIME WASTE AREAS
+
+- Trying multiple output formats without requirement clarity
+- Thinking about UI-level formatting unnecessarily
+- Over-analyzing ordering and filtering of sections
+- Attempting to "optimize" before confirming correct structure
+
+--------------------------------------------------
+
+7. WHAT WAS ACTUALLY WRONG
+
+- Not validating input format immediately
+- Mixing responsibilities (backend vs frontend)
+- Trying to solve UI problems in backend
+- Lack of early requirement confirmation
+- Overthinking instead of verifying with real data
+
+--------------------------------------------------
+
+8. WHAT WAS NOT WRONG (IMPORTANT CLARIFICATION)
+
+- Core logic for parsing and mapping → Correct
+- Decision to structure data → Correct
+- Keeping modular approach → Correct
+- Adding safety handling (try-except) → Correct
+- Moving toward adapter pattern → Correct
+
+--------------------------------------------------
+
+9. FINAL REALIZATION
+
+- The main problem was NOT coding complexity
+- The main problem was:
+  → Misunderstanding data format
+  → Misunderstanding responsibility boundaries
+  → Lack of early clarification
+
+--------------------------------------------------
+
+10. KEY LEARNING
+
+- Always inspect raw API response FIRST
+- Never assume data type (string vs JSON)
+- Separate:
+  Data processing vs UI rendering
+- Confirm requirements BEFORE implementation
+- Use modular design + simple interface
+- Avoid solving problems that are not clearly defined
+
+--------------------------------------------------
+
+Final Conclusion:
+Most issues were not technical failures but assumption-driven mistakes and unclear requirement understanding. Once the structure and responsibility were clarified, the implementation became straightforward and stable.

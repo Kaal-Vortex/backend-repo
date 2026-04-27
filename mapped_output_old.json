@@ -1,0 +1,2958 @@
+{
+  "response": {
+    "personalizedSections": [
+      {
+        "hotels": [
+          {
+            "id": "hsid0591375694-39642876",
+            "name": "Pride Plaza Hotel, Kolkata",
+            "starRating": 5,
+            "locationDetail": {
+              "name": "Barasat",
+              "countryName": "India"
+            },
+            "geoLocation": {
+              "latitude": 22.58,
+              "longitude": 88.46
+            },
+            "media": [
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/8b289576_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/40fa9fbd_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/84af82ae_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/7c57e8db_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/4d1fc2a5_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/01791dc6_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/4e3c3384_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/c254345d_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/3c5e8ce2_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/9dc68e76_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/a7510940_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/896c9ff6_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/fe47ccca_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/3e6c1f65_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/4e97595f_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/74e7a7bb_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/20c0e160_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/a1b08dcd_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/6de60d6e_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/8b289576_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/c75bdf7e_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/495277cd_z.jpg"
+              },
+              {
+                "url": "https://i.travelapi.com/lodging/5000000/4940000/4934800/4934751/d47a7952_z.jpg"
+              }
+            ],
+            "rooms": [
+              {
+                "priceDetail": {
+                  "displayPrice": 3964.95,
+                  "price": 4405.5,
+                  "priceWithTax": 3988.55,
+                  "discountedPrice": 3964.95,
+                  "discountedPriceWithTax": 3988.55,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "2_312465638_1_1",
+                  "discountedPriceWithTaxAndFees": 3988.55,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 3964.95,
+                  "price": 4405.5,
+                  "priceWithTax": 3988.55,
+                  "discountedPrice": 3964.95,
+                  "discountedPriceWithTax": 3988.55,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "2_302563675_2_1",
+                  "discountedPriceWithTaxAndFees": 3988.55,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4196.05,
+                  "price": 5656.19,
+                  "priceWithTax": 4219.65,
+                  "discountedPrice": 4196.05,
+                  "discountedPriceWithTax": 4219.65,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "391775950_2527390##0",
+                  "discountedPriceWithTaxAndFees": 4219.65,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4196.05,
+                  "price": 5656.19,
+                  "priceWithTax": 4219.65,
+                  "discountedPrice": 4196.05,
+                  "discountedPriceWithTax": 4219.65,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "963846319_2527386##0",
+                  "discountedPriceWithTaxAndFees": 4219.65,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4307.13,
+                  "price": 3975.93,
+                  "priceWithTax": 4330.73,
+                  "discountedPrice": 4307.13,
+                  "discountedPriceWithTax": 4330.73,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "3123436##0",
+                  "discountedPriceWithTaxAndFees": 4330.73,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4307.13,
+                  "price": 3975.93,
+                  "priceWithTax": 4330.73,
+                  "discountedPrice": 4307.13,
+                  "discountedPriceWithTax": 4330.73,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "122220039##0",
+                  "discountedPriceWithTaxAndFees": 4330.73,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4367.24,
+                  "price": 4260.72,
+                  "priceWithTax": 4390.84,
+                  "discountedPrice": 4367.24,
+                  "discountedPriceWithTax": 4390.84,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe King:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 4390.84,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4367.24,
+                  "price": 4260.72,
+                  "priceWithTax": 4390.84,
+                  "discountedPrice": 4367.24,
+                  "discountedPriceWithTax": 4390.84,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe Twin Room:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 4390.84,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4395.86,
+                  "price": 4288.64,
+                  "priceWithTax": 4419.46,
+                  "discountedPrice": 4395.86,
+                  "discountedPriceWithTax": 4419.46,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe Twin Room 2 Twin Beds  Non Refundable:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 4419.46,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4395.86,
+                  "price": 4288.64,
+                  "priceWithTax": 4419.46,
+                  "discountedPrice": 4395.86,
+                  "discountedPriceWithTax": 4419.46,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe Room 1 Double Bed  Non Refundable:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 4419.46,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4440.94,
+                  "price": 4371.0,
+                  "priceWithTax": 4464.54,
+                  "discountedPrice": 4440.94,
+                  "discountedPriceWithTax": 4464.54,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1272##1",
+                  "discountedPriceWithTaxAndFees": 4464.54,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4440.94,
+                  "price": 4371.0,
+                  "priceWithTax": 4464.54,
+                  "discountedPrice": 4440.94,
+                  "discountedPriceWithTax": 4464.54,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "2378##1",
+                  "discountedPriceWithTaxAndFees": 4464.54,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4477.51,
+                  "price": 4407.0,
+                  "priceWithTax": 4501.11,
+                  "discountedPrice": 4477.51,
+                  "discountedPriceWithTax": 4501.11,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "181533##1",
+                  "discountedPriceWithTaxAndFees": 4501.11,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4493.32,
+                  "price": 4422.56,
+                  "priceWithTax": 4516.92,
+                  "discountedPrice": 4493.32,
+                  "discountedPriceWithTax": 4516.92,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE, TWIN BEDS##0",
+                  "discountedPriceWithTaxAndFees": 4516.92,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4493.32,
+                  "price": 4422.56,
+                  "priceWithTax": 4516.92,
+                  "discountedPrice": 4493.32,
+                  "discountedPriceWithTax": 4516.92,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 4516.92,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4526.92,
+                  "price": 4455.63,
+                  "priceWithTax": 4550.52,
+                  "discountedPrice": 4526.92,
+                  "discountedPriceWithTax": 4550.52,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE, TWIN BEDS##0",
+                  "discountedPriceWithTaxAndFees": 4550.52,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4526.92,
+                  "price": 4455.63,
+                  "priceWithTax": 4550.52,
+                  "discountedPrice": 4526.92,
+                  "discountedPriceWithTax": 4550.52,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 4550.52,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4578.1,
+                  "price": 4506.0,
+                  "priceWithTax": 4601.7,
+                  "discountedPrice": 4578.1,
+                  "discountedPriceWithTax": 4601.7,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "65440##1",
+                  "discountedPriceWithTaxAndFees": 4601.7,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4651.67,
+                  "price": 4516.18,
+                  "priceWithTax": 4675.27,
+                  "discountedPrice": 4651.67,
+                  "discountedPriceWithTax": 4675.27,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE, TWIN BEDS##0",
+                  "discountedPriceWithTaxAndFees": 4675.27,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4651.67,
+                  "price": 4516.18,
+                  "priceWithTax": 4675.27,
+                  "discountedPrice": 4651.67,
+                  "discountedPriceWithTax": 4675.27,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 4675.27,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4686.44,
+                  "price": 4549.94,
+                  "priceWithTax": 4710.04,
+                  "discountedPrice": 4686.44,
+                  "discountedPriceWithTax": 4710.04,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE, TWIN BEDS##0",
+                  "discountedPriceWithTaxAndFees": 4710.04,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4686.44,
+                  "price": 4549.94,
+                  "priceWithTax": 4710.04,
+                  "discountedPrice": 4686.44,
+                  "discountedPriceWithTax": 4710.04,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 4710.04,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4502.49,
+                  "price": 4371.35,
+                  "priceWithTax": 4526.09,
+                  "discountedPrice": 4502.49,
+                  "discountedPriceWithTax": 4526.09,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE, TWIN BEDS##0",
+                  "discountedPriceWithTaxAndFees": 4526.09,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4502.49,
+                  "price": 4371.35,
+                  "priceWithTax": 4526.09,
+                  "discountedPrice": 4502.49,
+                  "discountedPriceWithTax": 4526.09,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 4526.09,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4536.16,
+                  "price": 4404.04,
+                  "priceWithTax": 4559.76,
+                  "discountedPrice": 4536.16,
+                  "discountedPriceWithTax": 4559.76,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE, TWIN BEDS##0",
+                  "discountedPriceWithTaxAndFees": 4559.76,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4536.16,
+                  "price": 4404.04,
+                  "priceWithTax": 4559.76,
+                  "discountedPrice": 4536.16,
+                  "discountedPriceWithTax": 4559.76,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 4559.76,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4698.35,
+                  "price": 4624.36,
+                  "priceWithTax": 4721.95,
+                  "discountedPrice": 4698.35,
+                  "discountedPriceWithTax": 4721.95,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe##0",
+                  "discountedPriceWithTaxAndFees": 4721.95,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4698.35,
+                  "price": 4624.36,
+                  "priceWithTax": 4721.95,
+                  "discountedPrice": 4698.35,
+                  "discountedPriceWithTax": 4721.95,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe Twin##0",
+                  "discountedPriceWithTaxAndFees": 4721.95,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4639.94,
+                  "price": 5155.5,
+                  "priceWithTax": 4663.54,
+                  "discountedPrice": 4639.94,
+                  "discountedPriceWithTax": 4663.54,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "2_292231429_3_1",
+                  "discountedPriceWithTaxAndFees": 4663.54,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4639.94,
+                  "price": 5155.5,
+                  "priceWithTax": 4663.54,
+                  "discountedPrice": 4639.94,
+                  "discountedPriceWithTax": 4663.54,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "2_366217444_4_1",
+                  "discountedPriceWithTaxAndFees": 4663.54,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4863.9,
+                  "price": 4722.23,
+                  "priceWithTax": 4887.5,
+                  "discountedPrice": 4863.9,
+                  "discountedPriceWithTax": 4887.5,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe##0",
+                  "discountedPriceWithTaxAndFees": 4887.5,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4863.9,
+                  "price": 4722.23,
+                  "priceWithTax": 4887.5,
+                  "discountedPrice": 4863.9,
+                  "discountedPriceWithTax": 4887.5,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe Twin##0",
+                  "discountedPriceWithTaxAndFees": 4887.5,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4774.94,
+                  "price": 5305.5,
+                  "priceWithTax": 4798.54,
+                  "discountedPrice": 4774.94,
+                  "discountedPriceWithTax": 4798.54,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "2_296691422_5_1",
+                  "discountedPriceWithTaxAndFees": 4798.54,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4910.4,
+                  "price": 6619.11,
+                  "priceWithTax": 4934.0,
+                  "discountedPrice": 4910.4,
+                  "discountedPriceWithTax": 4934.0,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1657439805_2527390##0",
+                  "discountedPriceWithTaxAndFees": 4934.0,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 4910.4,
+                  "price": 6619.11,
+                  "priceWithTax": 4934.0,
+                  "discountedPrice": 4910.4,
+                  "discountedPriceWithTax": 4934.0,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1483749045_2527386##0",
+                  "discountedPriceWithTaxAndFees": 4934.0,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5053.27,
+                  "price": 6811.7,
+                  "priceWithTax": 5076.87,
+                  "discountedPrice": 5053.27,
+                  "discountedPriceWithTax": 5076.87,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1998439599_2527387##0",
+                  "discountedPriceWithTaxAndFees": 5076.87,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5111.03,
+                  "price": 4986.37,
+                  "priceWithTax": 5134.63,
+                  "discountedPrice": 5111.03,
+                  "discountedPriceWithTax": 5134.63,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe King:Breakfast Included##1",
+                  "discountedPriceWithTaxAndFees": 5134.63,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5111.03,
+                  "price": 4986.37,
+                  "priceWithTax": 5134.63,
+                  "discountedPrice": 5111.03,
+                  "discountedPriceWithTax": 5134.63,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe Twin Room:Breakfast Included##1",
+                  "discountedPriceWithTaxAndFees": 5134.63,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5144.22,
+                  "price": 5018.75,
+                  "priceWithTax": 5167.82,
+                  "discountedPrice": 5144.22,
+                  "discountedPriceWithTax": 5167.82,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe Twin Room 2 Twin Beds  Non Refundable:Buffet Breakfast##1",
+                  "discountedPriceWithTaxAndFees": 5167.82,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5144.22,
+                  "price": 5018.75,
+                  "priceWithTax": 5167.82,
+                  "discountedPrice": 5144.22,
+                  "discountedPriceWithTax": 5167.82,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe Room 1 Double Bed  Non Refundable:Buffet Breakfast##1",
+                  "discountedPriceWithTaxAndFees": 5167.82,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5165.3,
+                  "price": 4774.68,
+                  "priceWithTax": 5188.9,
+                  "discountedPrice": 5165.3,
+                  "discountedPriceWithTax": 5188.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "122220039##0",
+                  "discountedPriceWithTaxAndFees": 5188.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5165.3,
+                  "price": 4774.68,
+                  "priceWithTax": 5188.9,
+                  "discountedPrice": 5165.3,
+                  "discountedPriceWithTax": 5188.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "3123436##0",
+                  "discountedPriceWithTaxAndFees": 5188.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5196.84,
+                  "price": 5115.0,
+                  "priceWithTax": 5220.44,
+                  "discountedPrice": 5196.84,
+                  "discountedPriceWithTax": 5220.44,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1272##1",
+                  "discountedPriceWithTaxAndFees": 5220.44,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5196.84,
+                  "price": 5115.0,
+                  "priceWithTax": 5220.44,
+                  "discountedPrice": 5196.84,
+                  "discountedPriceWithTax": 5220.44,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "2378##1",
+                  "discountedPriceWithTaxAndFees": 5220.44,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5259.6,
+                  "price": 5131.32,
+                  "priceWithTax": 5283.2,
+                  "discountedPrice": 5259.6,
+                  "discountedPriceWithTax": 5283.2,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Superior King:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 5283.2,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5164.3,
+                  "price": 5158.0,
+                  "priceWithTax": 5187.9,
+                  "discountedPrice": 5164.3,
+                  "discountedPriceWithTax": 5187.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "181533##1",
+                  "discountedPriceWithTaxAndFees": 5187.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5259.01,
+                  "price": 5176.19,
+                  "priceWithTax": 5282.61,
+                  "discountedPrice": 5259.01,
+                  "discountedPriceWithTax": 5282.61,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE, TWIN BEDS##0",
+                  "discountedPriceWithTaxAndFees": 5282.61,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5259.01,
+                  "price": 5176.19,
+                  "priceWithTax": 5282.61,
+                  "discountedPrice": 5259.01,
+                  "discountedPriceWithTax": 5282.61,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 5282.61,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5315.59,
+                  "price": 4913.6,
+                  "priceWithTax": 5339.19,
+                  "discountedPrice": 5315.59,
+                  "discountedPriceWithTax": 5339.19,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "3123437##0",
+                  "discountedPriceWithTaxAndFees": 5339.19,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5323.39,
+                  "price": 4920.8,
+                  "priceWithTax": 5346.99,
+                  "discountedPrice": 5323.39,
+                  "discountedPriceWithTax": 5346.99,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "3123437##0",
+                  "discountedPriceWithTaxAndFees": 5346.99,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5323.39,
+                  "price": 4920.8,
+                  "priceWithTax": 5346.99,
+                  "discountedPrice": 5323.39,
+                  "discountedPriceWithTax": 5346.99,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "3123438##0",
+                  "discountedPriceWithTaxAndFees": 5346.99,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5297.7,
+                  "price": 5214.27,
+                  "priceWithTax": 5321.3,
+                  "discountedPrice": 5297.7,
+                  "discountedPriceWithTax": 5321.3,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE, TWIN BEDS##0",
+                  "discountedPriceWithTaxAndFees": 5321.3,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5297.7,
+                  "price": 5214.27,
+                  "priceWithTax": 5321.3,
+                  "discountedPrice": 5297.7,
+                  "discountedPriceWithTax": 5321.3,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 5321.3,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5444.32,
+                  "price": 5285.75,
+                  "priceWithTax": 5467.92,
+                  "discountedPrice": 5444.32,
+                  "discountedPriceWithTax": 5467.92,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE, TWIN BEDS##0",
+                  "discountedPriceWithTaxAndFees": 5467.92,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5444.32,
+                  "price": 5285.75,
+                  "priceWithTax": 5467.92,
+                  "discountedPrice": 5444.32,
+                  "discountedPriceWithTax": 5467.92,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 5467.92,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5484.38,
+                  "price": 5324.64,
+                  "priceWithTax": 5507.98,
+                  "discountedPrice": 5484.38,
+                  "discountedPriceWithTax": 5507.98,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE, TWIN BEDS##0",
+                  "discountedPriceWithTaxAndFees": 5507.98,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5484.38,
+                  "price": 5324.64,
+                  "priceWithTax": 5507.98,
+                  "discountedPrice": 5484.38,
+                  "discountedPriceWithTax": 5507.98,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 5507.98,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5269.75,
+                  "price": 5116.26,
+                  "priceWithTax": 5293.35,
+                  "discountedPrice": 5269.75,
+                  "discountedPriceWithTax": 5293.35,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE, TWIN BEDS##0",
+                  "discountedPriceWithTaxAndFees": 5293.35,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5269.75,
+                  "price": 5116.26,
+                  "priceWithTax": 5293.35,
+                  "discountedPrice": 5269.75,
+                  "discountedPriceWithTax": 5293.35,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 5293.35,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5487.42,
+                  "price": 5401.0,
+                  "priceWithTax": 5511.02,
+                  "discountedPrice": 5487.42,
+                  "discountedPriceWithTax": 5511.02,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "65440##1",
+                  "discountedPriceWithTaxAndFees": 5511.02,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5498.17,
+                  "price": 5411.58,
+                  "priceWithTax": 5521.77,
+                  "discountedPrice": 5498.17,
+                  "discountedPriceWithTax": 5521.77,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe##0",
+                  "discountedPriceWithTaxAndFees": 5521.77,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5498.17,
+                  "price": 5411.58,
+                  "priceWithTax": 5521.77,
+                  "discountedPrice": 5498.17,
+                  "discountedPriceWithTax": 5521.77,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe Twin##0",
+                  "discountedPriceWithTaxAndFees": 5521.77,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5308.52,
+                  "price": 5153.9,
+                  "priceWithTax": 5332.12,
+                  "discountedPrice": 5308.52,
+                  "discountedPriceWithTax": 5332.12,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE, TWIN BEDS##0",
+                  "discountedPriceWithTaxAndFees": 5332.12,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5308.52,
+                  "price": 5153.9,
+                  "priceWithTax": 5332.12,
+                  "discountedPrice": 5308.52,
+                  "discountedPriceWithTax": 5332.12,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 5332.12,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5449.94,
+                  "price": 6055.5,
+                  "priceWithTax": 5473.54,
+                  "discountedPrice": 5449.94,
+                  "discountedPriceWithTax": 5473.54,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "2_296691423_6_1",
+                  "discountedPriceWithTaxAndFees": 5473.54,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5322.39,
+                  "price": 6055.5,
+                  "priceWithTax": 5345.99,
+                  "discountedPrice": 5322.39,
+                  "discountedPriceWithTax": 5345.99,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "2_298711084_7_1",
+                  "discountedPriceWithTaxAndFees": 5345.99,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5593.08,
+                  "price": 5505.0,
+                  "priceWithTax": 5616.68,
+                  "discountedPrice": 5593.08,
+                  "discountedPriceWithTax": 5616.68,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "181681##1",
+                  "discountedPriceWithTaxAndFees": 5616.68,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5691.9,
+                  "price": 5526.12,
+                  "priceWithTax": 5715.5,
+                  "discountedPrice": 5691.9,
+                  "discountedPriceWithTax": 5715.5,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe##0",
+                  "discountedPriceWithTaxAndFees": 5715.5,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5691.9,
+                  "price": 5526.12,
+                  "priceWithTax": 5715.5,
+                  "discountedPrice": 5691.9,
+                  "discountedPriceWithTax": 5715.5,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe Twin##0",
+                  "discountedPriceWithTaxAndFees": 5715.5,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5626.58,
+                  "price": 5537.97,
+                  "priceWithTax": 5650.18,
+                  "discountedPrice": 5626.58,
+                  "discountedPriceWithTax": 5650.18,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUPERIOR##0",
+                  "discountedPriceWithTaxAndFees": 5650.18,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5634.73,
+                  "price": 5545.99,
+                  "priceWithTax": 5658.33,
+                  "discountedPrice": 5634.73,
+                  "discountedPriceWithTax": 5658.33,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUPERIOR##0",
+                  "discountedPriceWithTaxAndFees": 5658.33,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5634.73,
+                  "price": 5545.99,
+                  "priceWithTax": 5658.33,
+                  "discountedPrice": 5634.73,
+                  "discountedPriceWithTax": 5658.33,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PREMIUM##0",
+                  "discountedPriceWithTaxAndFees": 5658.33,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5655.06,
+                  "price": 5566.0,
+                  "priceWithTax": 5678.66,
+                  "discountedPrice": 5655.06,
+                  "discountedPriceWithTax": 5678.66,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1157##1",
+                  "discountedPriceWithTaxAndFees": 5678.66,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5658.12,
+                  "price": 5569.02,
+                  "priceWithTax": 5681.72,
+                  "discountedPrice": 5658.12,
+                  "discountedPriceWithTax": 5681.72,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Superior##0",
+                  "discountedPriceWithTaxAndFees": 5681.72,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5824.85,
+                  "price": 5655.19,
+                  "priceWithTax": 5848.45,
+                  "discountedPrice": 5824.85,
+                  "discountedPriceWithTax": 5848.45,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUPERIOR##0",
+                  "discountedPriceWithTaxAndFees": 5848.45,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5833.28,
+                  "price": 5663.38,
+                  "priceWithTax": 5856.88,
+                  "discountedPrice": 5833.28,
+                  "discountedPriceWithTax": 5856.88,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUPERIOR##0",
+                  "discountedPriceWithTaxAndFees": 5856.88,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5833.28,
+                  "price": 5663.38,
+                  "priceWithTax": 5856.88,
+                  "discountedPrice": 5833.28,
+                  "discountedPriceWithTax": 5856.88,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PREMIUM##0",
+                  "discountedPriceWithTaxAndFees": 5856.88,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5767.61,
+                  "price": 7774.62,
+                  "priceWithTax": 5791.21,
+                  "discountedPrice": 5767.61,
+                  "discountedPriceWithTax": 5791.21,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1998439599_2527388##0",
+                  "discountedPriceWithTaxAndFees": 5791.21,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5857.5,
+                  "price": 5686.89,
+                  "priceWithTax": 5881.1,
+                  "discountedPrice": 5857.5,
+                  "discountedPriceWithTax": 5881.1,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Superior##0",
+                  "discountedPriceWithTaxAndFees": 5881.1,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5982.72,
+                  "price": 5530.27,
+                  "priceWithTax": 6006.32,
+                  "discountedPrice": 5982.72,
+                  "discountedPriceWithTax": 6006.32,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "3123438##0",
+                  "discountedPriceWithTaxAndFees": 6006.32,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6003.39,
+                  "price": 5856.97,
+                  "priceWithTax": 6026.99,
+                  "discountedPrice": 6003.39,
+                  "discountedPriceWithTax": 6026.99,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PREMIUM KING:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 6026.99,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6003.39,
+                  "price": 5856.97,
+                  "priceWithTax": 6026.99,
+                  "discountedPrice": 6003.39,
+                  "discountedPriceWithTax": 6026.99,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Superior King:Breakfast Included##1",
+                  "discountedPriceWithTaxAndFees": 6026.99,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6042.24,
+                  "price": 5894.87,
+                  "priceWithTax": 6065.84,
+                  "discountedPrice": 6042.24,
+                  "discountedPriceWithTax": 6065.84,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Superior Room, 1 Double Bed 1 Double Bed  Non Refundable:Buffet Breakfast##1",
+                  "discountedPriceWithTaxAndFees": 6065.84,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6079.79,
+                  "price": 5618.21,
+                  "priceWithTax": 6103.39,
+                  "discountedPrice": 6079.79,
+                  "discountedPriceWithTax": 6103.39,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "3123436##0",
+                  "discountedPriceWithTaxAndFees": 6103.39,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6176.41,
+                  "price": 6079.14,
+                  "priceWithTax": 6200.01,
+                  "discountedPrice": 6176.41,
+                  "discountedPriceWithTax": 6200.01,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUPERIOR, DOUBLE BED##0",
+                  "discountedPriceWithTaxAndFees": 6200.01,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6222.23,
+                  "price": 6124.24,
+                  "priceWithTax": 6245.83,
+                  "discountedPrice": 6222.23,
+                  "discountedPriceWithTax": 6245.83,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUPERIOR, DOUBLE BED##0",
+                  "discountedPriceWithTaxAndFees": 6245.83,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 5981.72,
+                  "price": 6805.5,
+                  "priceWithTax": 6005.32,
+                  "discountedPrice": 5981.72,
+                  "discountedPriceWithTax": 6005.32,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "2_298711085_8_1",
+                  "discountedPriceWithTaxAndFees": 6005.32,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6394.05,
+                  "price": 6207.82,
+                  "priceWithTax": 6417.65,
+                  "discountedPrice": 6394.05,
+                  "discountedPriceWithTax": 6417.65,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUPERIOR, DOUBLE BED##0",
+                  "discountedPriceWithTaxAndFees": 6417.65,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6333.22,
+                  "price": 6233.48,
+                  "priceWithTax": 6356.82,
+                  "discountedPrice": 6333.22,
+                  "discountedPriceWithTax": 6356.82,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PREMIUM##0",
+                  "discountedPriceWithTaxAndFees": 6356.82,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6441.49,
+                  "price": 6253.87,
+                  "priceWithTax": 6465.09,
+                  "discountedPrice": 6441.49,
+                  "discountedPriceWithTax": 6465.09,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUPERIOR, DOUBLE BED##0",
+                  "discountedPriceWithTaxAndFees": 6465.09,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6356.1,
+                  "price": 6256.0,
+                  "priceWithTax": 6379.7,
+                  "discountedPrice": 6356.1,
+                  "discountedPriceWithTax": 6379.7,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1157##1",
+                  "discountedPriceWithTaxAndFees": 6379.7,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6189.01,
+                  "price": 6008.75,
+                  "priceWithTax": 6212.61,
+                  "discountedPrice": 6189.01,
+                  "discountedPriceWithTax": 6212.61,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUPERIOR, DOUBLE BED##0",
+                  "discountedPriceWithTaxAndFees": 6212.61,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6436.06,
+                  "price": 6334.7,
+                  "priceWithTax": 6459.66,
+                  "discountedPrice": 6436.06,
+                  "discountedPriceWithTax": 6459.66,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 6459.66,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6234.93,
+                  "price": 6053.33,
+                  "priceWithTax": 6258.53,
+                  "discountedPrice": 6234.93,
+                  "discountedPriceWithTax": 6258.53,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUPERIOR, DOUBLE BED##0",
+                  "discountedPriceWithTaxAndFees": 6258.53,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6459.73,
+                  "price": 6358.0,
+                  "priceWithTax": 6483.33,
+                  "discountedPrice": 6459.73,
+                  "discountedPriceWithTax": 6483.33,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "65440##1",
+                  "discountedPriceWithTaxAndFees": 6483.33,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6556.38,
+                  "price": 6365.42,
+                  "priceWithTax": 6579.98,
+                  "discountedPrice": 6556.38,
+                  "discountedPriceWithTax": 6579.98,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PREMIUM##0",
+                  "discountedPriceWithTaxAndFees": 6579.98,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6662.84,
+                  "price": 6468.78,
+                  "priceWithTax": 6686.44,
+                  "discountedPrice": 6662.84,
+                  "discountedPriceWithTax": 6686.44,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE##0",
+                  "discountedPriceWithTaxAndFees": 6686.44,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6747.19,
+                  "price": 6582.62,
+                  "priceWithTax": 6770.79,
+                  "discountedPrice": 6747.19,
+                  "discountedPriceWithTax": 6770.79,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PREMIUM KING:Breakfast Included##1",
+                  "discountedPriceWithTaxAndFees": 6770.79,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6790.59,
+                  "price": 6624.97,
+                  "priceWithTax": 6814.19,
+                  "discountedPrice": 6790.59,
+                  "discountedPriceWithTax": 6814.19,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Premium Room, 1 King Bed 1 King Bed  Non Refundable:Buffet Breakfast##1",
+                  "discountedPriceWithTaxAndFees": 6814.19,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6941.08,
+                  "price": 6831.77,
+                  "priceWithTax": 6964.68,
+                  "discountedPrice": 6941.08,
+                  "discountedPriceWithTax": 6964.68,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PREMIUM, KING BED##0",
+                  "discountedPriceWithTaxAndFees": 6964.68,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6993.01,
+                  "price": 6882.88,
+                  "priceWithTax": 7016.61,
+                  "discountedPrice": 6993.01,
+                  "discountedPriceWithTax": 7016.61,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PREMIUM, KING BED##0",
+                  "discountedPriceWithTaxAndFees": 7016.61,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 7185.67,
+                  "price": 6976.38,
+                  "priceWithTax": 7209.27,
+                  "discountedPrice": 7185.67,
+                  "discountedPriceWithTax": 7209.27,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PREMIUM, KING BED##0",
+                  "discountedPriceWithTaxAndFees": 7209.27,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 7239.42,
+                  "price": 7028.56,
+                  "priceWithTax": 7263.02,
+                  "discountedPrice": 7239.42,
+                  "discountedPriceWithTax": 7263.02,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PREMIUM, KING BED##0",
+                  "discountedPriceWithTaxAndFees": 7263.02,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 7173.98,
+                  "price": 7061.0,
+                  "priceWithTax": 7197.58,
+                  "discountedPrice": 7173.98,
+                  "discountedPriceWithTax": 7197.58,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "181681##1",
+                  "discountedPriceWithTaxAndFees": 7197.58,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 7173.98,
+                  "price": 7061.0,
+                  "priceWithTax": 7197.58,
+                  "discountedPrice": 7173.98,
+                  "discountedPriceWithTax": 7197.58,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "181715##1",
+                  "discountedPriceWithTaxAndFees": 7197.58,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 6955.25,
+                  "price": 6752.67,
+                  "priceWithTax": 6978.85,
+                  "discountedPrice": 6955.25,
+                  "discountedPriceWithTax": 6978.85,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PREMIUM, KING BED##0",
+                  "discountedPriceWithTaxAndFees": 6978.85,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 7257.0,
+                  "price": 7142.72,
+                  "priceWithTax": 7280.6,
+                  "discountedPrice": 7257.0,
+                  "discountedPriceWithTax": 7280.6,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Superior##0",
+                  "discountedPriceWithTaxAndFees": 7280.6,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 7257.0,
+                  "price": 7142.72,
+                  "priceWithTax": 7280.6,
+                  "discountedPrice": 7257.0,
+                  "discountedPriceWithTax": 7280.6,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Premium##0",
+                  "discountedPriceWithTaxAndFees": 7280.6,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 7007.29,
+                  "price": 6803.19,
+                  "priceWithTax": 7030.89,
+                  "discountedPrice": 7007.29,
+                  "discountedPriceWithTax": 7030.89,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PREMIUM, KING BED##0",
+                  "discountedPriceWithTaxAndFees": 7030.89,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 7512.72,
+                  "price": 7293.9,
+                  "priceWithTax": 7536.32,
+                  "discountedPrice": 7512.72,
+                  "discountedPriceWithTax": 7536.32,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Superior##0",
+                  "discountedPriceWithTaxAndFees": 7536.32,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 7512.72,
+                  "price": 7293.9,
+                  "priceWithTax": 7536.32,
+                  "discountedPrice": 7512.72,
+                  "discountedPriceWithTax": 7536.32,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Premium##0",
+                  "discountedPriceWithTaxAndFees": 7536.32,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 8062.98,
+                  "price": 7936.0,
+                  "priceWithTax": 8086.58,
+                  "discountedPrice": 8062.98,
+                  "discountedPriceWithTax": 8086.58,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "181715##1",
+                  "discountedPriceWithTaxAndFees": 8086.58,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 8155.84,
+                  "price": 8027.4,
+                  "priceWithTax": 8179.44,
+                  "discountedPrice": 8155.84,
+                  "discountedPriceWithTax": 8179.44,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Premium##0",
+                  "discountedPriceWithTaxAndFees": 8179.44,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 8443.23,
+                  "price": 8197.31,
+                  "priceWithTax": 8466.83,
+                  "discountedPrice": 8443.23,
+                  "discountedPriceWithTax": 8466.83,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Premium##0",
+                  "discountedPriceWithTaxAndFees": 8466.83,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 11644.66,
+                  "price": 11305.5,
+                  "priceWithTax": 11668.26,
+                  "discountedPrice": 11644.66,
+                  "discountedPriceWithTax": 11668.26,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "2_291817726_9_1",
+                  "discountedPriceWithTaxAndFees": 11668.26,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 12294.56,
+                  "price": 14515.06,
+                  "priceWithTax": 12318.16,
+                  "discountedPrice": 12294.56,
+                  "discountedPriceWithTax": 12318.16,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1998439599_2527391##0",
+                  "discountedPriceWithTaxAndFees": 12318.16,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 12417.16,
+                  "price": 12055.5,
+                  "priceWithTax": 12440.76,
+                  "discountedPrice": 12417.16,
+                  "discountedPriceWithTax": 12440.76,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "2_294019797_10_1",
+                  "discountedPriceWithTaxAndFees": 12440.76,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 12774.69,
+                  "price": 12463.11,
+                  "priceWithTax": 12798.29,
+                  "discountedPrice": 12774.69,
+                  "discountedPriceWithTax": 12798.29,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Suite King:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 12798.29,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 12823.88,
+                  "price": 10421.84,
+                  "priceWithTax": 12847.48,
+                  "discountedPrice": 12823.88,
+                  "discountedPriceWithTax": 12847.48,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "3123435##0",
+                  "discountedPriceWithTaxAndFees": 12847.48,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 13110.17,
+                  "price": 15477.98,
+                  "priceWithTax": 13133.77,
+                  "discountedPrice": 13110.17,
+                  "discountedPriceWithTax": 13133.77,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1378639469_2527389##0",
+                  "discountedPriceWithTaxAndFees": 13133.77,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 13392.91,
+                  "price": 13182.0,
+                  "priceWithTax": 13416.51,
+                  "discountedPrice": 13392.91,
+                  "discountedPriceWithTax": 13416.51,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "80##1",
+                  "discountedPriceWithTaxAndFees": 13416.51,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 13621.71,
+                  "price": 13289.47,
+                  "priceWithTax": 13645.31,
+                  "discountedPrice": 13621.71,
+                  "discountedPriceWithTax": 13645.31,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Suite King:Breakfast Included##1",
+                  "discountedPriceWithTaxAndFees": 13645.31,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 13548.89,
+                  "price": 13335.52,
+                  "priceWithTax": 13572.49,
+                  "discountedPrice": 13548.89,
+                  "discountedPriceWithTax": 13572.49,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Suite Room##0",
+                  "discountedPriceWithTaxAndFees": 13572.49,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 13676.03,
+                  "price": 13342.47,
+                  "priceWithTax": 13699.63,
+                  "discountedPrice": 13676.03,
+                  "discountedPriceWithTax": 13699.63,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Suite, 1 King Bed 1 King Bed  Non Refundable:Buffet Breakfast##1",
+                  "discountedPriceWithTaxAndFees": 13699.63,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 13687.18,
+                  "price": 11125.49,
+                  "priceWithTax": 13710.78,
+                  "discountedPrice": 13687.18,
+                  "discountedPriceWithTax": 13710.78,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "3123435##0",
+                  "discountedPriceWithTaxAndFees": 13710.78,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 13573.65,
+                  "price": 13359.89,
+                  "priceWithTax": 13597.25,
+                  "discountedPrice": 13573.65,
+                  "discountedPriceWithTax": 13597.25,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Suite##0",
+                  "discountedPriceWithTaxAndFees": 13597.25,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 14026.31,
+                  "price": 13617.78,
+                  "priceWithTax": 14049.91,
+                  "discountedPrice": 14026.31,
+                  "discountedPriceWithTax": 14049.91,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Suite Room##0",
+                  "discountedPriceWithTaxAndFees": 14049.91,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 14051.94,
+                  "price": 13642.66,
+                  "priceWithTax": 14075.54,
+                  "discountedPrice": 14051.94,
+                  "discountedPriceWithTax": 14075.54,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Suite##0",
+                  "discountedPriceWithTaxAndFees": 14075.54,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 13999.25,
+                  "price": 13778.79,
+                  "priceWithTax": 14022.85,
+                  "discountedPrice": 13999.25,
+                  "discountedPriceWithTax": 14022.85,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUITE, KING BED##0",
+                  "discountedPriceWithTaxAndFees": 14022.85,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 14089.88,
+                  "price": 13867.99,
+                  "priceWithTax": 14113.48,
+                  "discountedPrice": 14089.88,
+                  "discountedPriceWithTax": 14113.48,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUITE, KING BED##0",
+                  "discountedPriceWithTaxAndFees": 14113.48,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 14281.91,
+                  "price": 14057.0,
+                  "priceWithTax": 14305.51,
+                  "discountedPrice": 14281.91,
+                  "discountedPriceWithTax": 14305.51,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "80##1",
+                  "discountedPriceWithTaxAndFees": 14305.51,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 14492.54,
+                  "price": 14070.43,
+                  "priceWithTax": 14516.14,
+                  "discountedPrice": 14492.54,
+                  "discountedPriceWithTax": 14516.14,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUITE, KING BED##0",
+                  "discountedPriceWithTaxAndFees": 14516.14,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 14586.37,
+                  "price": 14161.52,
+                  "priceWithTax": 14609.97,
+                  "discountedPrice": 14586.37,
+                  "discountedPriceWithTax": 14609.97,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUITE, KING BED##0",
+                  "discountedPriceWithTaxAndFees": 14609.97,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 14447.72,
+                  "price": 14220.2,
+                  "priceWithTax": 14471.32,
+                  "discountedPrice": 14447.72,
+                  "discountedPriceWithTax": 14471.32,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Suite Room##0",
+                  "discountedPriceWithTaxAndFees": 14471.32,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 14487.99,
+                  "price": 14259.83,
+                  "priceWithTax": 14511.59,
+                  "discountedPrice": 14487.99,
+                  "discountedPriceWithTax": 14511.59,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Suite##0",
+                  "discountedPriceWithTaxAndFees": 14511.59,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 14027.83,
+                  "price": 13619.25,
+                  "priceWithTax": 14051.43,
+                  "discountedPrice": 14027.83,
+                  "discountedPriceWithTax": 14051.43,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUITE, KING BED##0",
+                  "discountedPriceWithTaxAndFees": 14051.43,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 14118.63,
+                  "price": 13707.41,
+                  "priceWithTax": 14142.23,
+                  "discountedPrice": 14118.63,
+                  "discountedPriceWithTax": 14142.23,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUITE, KING BED##0",
+                  "discountedPriceWithTaxAndFees": 14142.23,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 14956.83,
+                  "price": 14521.19,
+                  "priceWithTax": 14980.43,
+                  "discountedPrice": 14956.83,
+                  "discountedPriceWithTax": 14980.43,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Suite Room##0",
+                  "discountedPriceWithTaxAndFees": 14980.43,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 14998.51,
+                  "price": 14561.66,
+                  "priceWithTax": 15022.11,
+                  "discountedPrice": 14998.51,
+                  "discountedPriceWithTax": 15022.11,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Suite##0",
+                  "discountedPriceWithTaxAndFees": 15022.11,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 15317.66,
+                  "price": 14944.06,
+                  "priceWithTax": 15341.26,
+                  "discountedPrice": 15317.66,
+                  "discountedPriceWithTax": 15341.26,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe Suite:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 15341.26,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 15679.93,
+                  "price": 15433.0,
+                  "priceWithTax": 15703.53,
+                  "discountedPrice": 15679.93,
+                  "discountedPriceWithTax": 15703.53,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1106##1",
+                  "discountedPriceWithTaxAndFees": 15703.53,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 16164.68,
+                  "price": 15770.42,
+                  "priceWithTax": 16188.28,
+                  "discountedPrice": 16164.68,
+                  "discountedPriceWithTax": 16188.28,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Deluxe Suite:Breakfast Included##1",
+                  "discountedPriceWithTaxAndFees": 16188.28,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 16547.59,
+                  "price": 16287.0,
+                  "priceWithTax": 16571.19,
+                  "discountedPrice": 16547.59,
+                  "discountedPriceWithTax": 16571.19,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1106##1",
+                  "discountedPriceWithTaxAndFees": 16571.19,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 36224.46,
+                  "price": 35654.0,
+                  "priceWithTax": 36248.06,
+                  "discountedPrice": 36224.46,
+                  "discountedPriceWithTax": 36248.06,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "35612##1",
+                  "discountedPriceWithTaxAndFees": 36248.06,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 37939.73,
+                  "price": 36834.68,
+                  "priceWithTax": 37986.93,
+                  "discountedPrice": 37939.73,
+                  "discountedPriceWithTax": 37986.93,
+                  "totalTax": 47.2,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Presidential Suite##0",
+                  "discountedPriceWithTaxAndFees": 37986.93,
+                  "totalTaxWithFees": 47.2,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 38001.45,
+                  "price": 37403.0,
+                  "priceWithTax": 38025.05,
+                  "discountedPrice": 38001.45,
+                  "discountedPriceWithTax": 38025.05,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "35612##1",
+                  "discountedPriceWithTaxAndFees": 38025.05,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 39800.75,
+                  "price": 38641.5,
+                  "priceWithTax": 39847.95,
+                  "discountedPrice": 39800.75,
+                  "discountedPriceWithTax": 39847.95,
+                  "totalTax": 47.2,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "Presidential Suite##0",
+                  "discountedPriceWithTaxAndFees": 39847.95,
+                  "totalTaxWithFees": 47.2,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUI.DX-10##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUI.DX-10##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUI.DX-10##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DBL.DX-1##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DBL.DX-1##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DBL.DX-1##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DBL.PE-1##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DBL.PE-1##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DBL.PE-1##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DBL.SU-1##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DBL.SU-1##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DBL.SU-1##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUI.6S##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUI.6S##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUI.6S##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "TWN.DX-10##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "TWN.DX-10##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 93014.62,
+                  "price": 91190.8,
+                  "priceWithTax": 93038.22,
+                  "discountedPrice": 93014.62,
+                  "discountedPriceWithTax": 93038.22,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "TWN.DX-10##0",
+                  "discountedPriceWithTaxAndFees": 93038.22,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUITE ROOM:Breakfast Included##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE DOUBLE TWIN ROOM:Breakfast Included##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PRESIDENTIAL SUITE ROOM:Breakfast Included##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DOUBLE SUPERIOR KING ROOM:Breakfast Included##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DOUBLE PREMIUM KING ROOM:Breakfast Included##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DOUBLE DELUXE ROOM:Breakfast Included##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PRESIDENTIAL SUITE ROOM:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DOUBLE SUPERIOR KING ROOM:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DOUBLE PREMIUM KING ROOM:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DOUBLE DELUXE ROOM:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUITE ROOM:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE DOUBLE TWIN ROOM:Room Only##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "PRESIDENTIAL SUITE ROOM:Half Board##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DOUBLE SUPERIOR KING ROOM:Half Board##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DOUBLE PREMIUM KING ROOM:Half Board##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DOUBLE DELUXE ROOM:Half Board##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "SUITE ROOM:Half Board##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 95261.3,
+                  "price": 92937.85,
+                  "priceWithTax": 95284.9,
+                  "discountedPrice": 95261.3,
+                  "discountedPriceWithTax": 95284.9,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "DELUXE DOUBLE TWIN ROOM:Half Board##1",
+                  "discountedPriceWithTaxAndFees": 95284.9,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 98411.79,
+                  "price": 96862.0,
+                  "priceWithTax": 98435.39,
+                  "discountedPrice": 98411.79,
+                  "discountedPriceWithTax": 98435.39,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "80##1",
+                  "discountedPriceWithTaxAndFees": 98435.39,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 98411.79,
+                  "price": 96862.0,
+                  "priceWithTax": 98435.39,
+                  "discountedPrice": 98411.79,
+                  "discountedPriceWithTax": 98435.39,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1176##1",
+                  "discountedPriceWithTaxAndFees": 98435.39,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 98411.79,
+                  "price": 96862.0,
+                  "priceWithTax": 98435.39,
+                  "discountedPrice": 98411.79,
+                  "discountedPriceWithTax": 98435.39,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1177##1",
+                  "discountedPriceWithTaxAndFees": 98435.39,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 98411.79,
+                  "price": 96862.0,
+                  "priceWithTax": 98435.39,
+                  "discountedPrice": 98411.79,
+                  "discountedPriceWithTax": 98435.39,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "1763##1",
+                  "discountedPriceWithTaxAndFees": 98435.39,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              },
+              {
+                "priceDetail": {
+                  "displayPrice": 98411.79,
+                  "price": 96862.0,
+                  "priceWithTax": 98435.39,
+                  "discountedPrice": 98411.79,
+                  "discountedPriceWithTax": 98435.39,
+                  "totalTax": 23.6,
+                  "pricingKey": "DEFAULT",
+                  "ratePlanCode": "3593##1",
+                  "discountedPriceWithTaxAndFees": 98435.39,
+                  "totalTaxWithFees": 23.6,
+                  "totalAdditionalFees": 0.0
+                }
+              }
+            ],
+            "descriptionSections": [
+              {
+                "title": "Amenities",
+                "content": "Take time to pamper yourself with a visit to the full-service spa. If you're looking for recreational opportunities, you'll find a health club and a sauna. This hotel also features complimentary wireless internet access, concierge services, and babysitting (surcharge)."
+              },
+              {
+                "title": "Spoken Languages",
+                "content": "Hindi, English"
+              },
+              {
+                "title": "Rooms",
+                "content": "Make yourself at home in one of the 153 guestrooms featuring minibars and LCD televisions. Your memory foam bed comes with down comforters. Complimentary wireless internet access is available to keep you connected. Private bathrooms with shower/tub combinations feature rainfall showerheads and designer toiletries."
+              },
+              {
+                "title": "Renovations",
+                "content": "The following facilities or services will be unavailable from December 3 2025 to March 10 2026 (dates subject to change): Swimming pool"
+              },
+              {
+                "title": "Onsite Payments",
+                "content": "Visa, Debit cards not accepted, Cash not accepted, American Express, Mastercard"
+              },
+              {
+                "title": "Dining",
+                "content": "Enjoy a meal at the restaurant or snacks in the coffee shop/cafe. The hotel also offers 24-hour room service. Quench your thirst with your favorite drink at the bar/lounge. Buffet breakfasts are available daily from 7:00 AM to 9:30 AM for a fee."
+              },
+              {
+                "title": "Business Amenities",
+                "content": "Featured amenities include a business center, complimentary newspapers in the lobby, and dry cleaning/laundry services. Planning an event in Barasat? This hotel has 10764 square feet (1000 square meters) of space consisting of a conference center and meeting rooms. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free self parking is available onsite."
+              },
+              {
+                "title": "Location",
+                "content": "With a stay at Pride Plaza Hotel, Kolkata, you'll be centrally located in Barasat, within a 5-minute drive of New Town Eco Park and Axis Mall.  This luxury hotel is 8.8 mi (14.2 km) from New Market and 1 mi (1.6 km) from Nazrul Tirtha."
+              },
+              {
+                "title": "Attractions",
+                "content": "Distances are displayed to the nearest 0.1 mile and kilometer.  Axis Mall - 0.6 km / 0.4 mi  Biswa Bangla Convention Centre - 1.6 km / 1 mi  Nazrul Tirtha - 1.6 km / 1 mi  Mother's Wax Museum - 3.7 km / 2.3 mi  New Town Eco Park - 3.8 km / 2.4 mi  Ecospace Business Park - 4.2 km / 2.6 mi  Nicco Park - 5.6 km / 3.5 mi  Salt Lake Central Park - 5.8 km / 3.6 mi  Eco Urban Village - 6.4 km / 4 mi  Columbia Asia Hospital - 6.5 km / 4.1 mi  Aikatan - 6.9 km / 4.3 mi  Salt Lake Stadium - 7.2 km / 4.5 mi  Salt Lake City Centre Mall - 7.4 km / 4.6 mi  City Centre 2 - 7.5 km / 4.7 mi  Energy Education Park - 8.1 km / 5.1 mi  The preferred airport for Pride Plaza Hotel, Kolkata is Netaji Subhash Chandra Bose Intl. Airport (CCU) - 11.4 km / 7.1 mi"
+              },
+              {
+                "title": "Headline",
+                "content": "In Barasat (New Town)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
